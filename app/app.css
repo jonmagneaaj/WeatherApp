@@ -1,0 +1,12 @@
+﻿.centered{
+    align-items:center;
+    justify-content:center;
+    flex-direction:column;
+    width:80%;
+    text-align:center;
+}
+
+
+@import '~nativescript-theme-core/css/core.css';
+@import './font-awesome.css';
+
